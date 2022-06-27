@@ -1,0 +1,4 @@
+This is the version one of the project .
+Now i wanted to go to commit 2 .
+change by assif razaa
+This is changed now skipping the staging area
